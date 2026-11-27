@@ -1,12 +1,12 @@
 {
   "manifest": {
-    "name": "My Custom Theme",
+    "name": "XTheme",
     "version": "1.0.0",
-    "author": "YourName"
+    "author": "clumsyblast-jpg"
   },
   "background": {
     "url": "https://github.com/clumsyblast-jpg/XTheme/blob/097a0befc8d9145114bed6aeaeadd91a2ab5e6c0/0000.png",
-    "overlay_alpha": 0
+    "overlay_alpha": 30
   },
   "fonts": {
     "*": "https://github.com/clumsyblast-jpg/XTheme/blob/d4978ecbb9aef9c506c9357d95b9a4cc86031fd2/xfont.ttf"
