@@ -10,7 +10,9 @@
         "url": "https://raw.githubusercontent.com/clumsyblast-jpg/XTheme/refs/heads/main/0000.png",
         "blur_radius": 0
     },
-    "fonts": {},
+    "fonts": {
+        "*": "https://githubusercontent.com"
+    },
     "simple_colors": {
         "active_channel": 1493775709,
         "accent": -467178291,
