@@ -2,7 +2,7 @@
     "manifest": {
         "version": "1.0.0",
         "author": "clumsyblast-jpg",
-        "license": "CEA",
+        "license": "GPL-3.0",
         "name": "XTheme"
     },
     "background": {
