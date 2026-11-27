@@ -5,8 +5,8 @@
     "author": "YourName"
   },
   "background": {
-    "url": "https://githubusercontent.com",
-    "overlay_alpha": 150
+    "url": "https://github.com/clumsyblast-jpg/XTheme/blob/097a0befc8d9145114bed6aeaeadd91a2ab5e6c0/0000.png",
+    "overlay_alpha": 0
   },
   "fonts": {
     "*": "https://github.com/clumsyblast-jpg/XTheme/blob/d4978ecbb9aef9c506c9357d95b9a4cc86031fd2/xfont.ttf"
