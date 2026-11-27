@@ -1,14 +1,46 @@
 {
-  "manifest": {
-    "name": "XTheme",
-    "version": "1.0.0",
-    "author": "clumsyblast-jpg"
-  },
-  "background": {
-    "url": "https://github.com/clumsyblast-jpg/XTheme/blob/097a0befc8d9145114bed6aeaeadd91a2ab5e6c0/0000.png",
-    "overlay_alpha": 30
-  },
-  "fonts": {
-    "*": "https://github.com/clumsyblast-jpg/XTheme/blob/d4978ecbb9aef9c506c9357d95b9a4cc86031fd2/xfont.ttf"
-  }
+    "manifest": {
+        "version": "1.0.0",
+        "author": "clumsyblast-jpg",
+        "license": "CEA",
+        "name": "XTheme"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https://github.com/clumsyblast-jpg/XTheme/blob/097a0befc8d9145114bed6aeaeadd91a2ab5e6c0/0000.png",
+        "blur_radius": 0
+    },
+     },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": 1493775709,
+        "accent": -467178291,
+        "mention_highlight": 637681285,
+        "background_secondary": 187462297,
+        "background": 119090080
+    },
+    "colors": {
+        "brand": -15244893,
+        "brand_new_500": -13989417,
+        "primary_dark_400": -1089046059,
+        "primary_dark_360": -670077752,
+        "uikit_btn_compound_color_selector_dark": -16740921,
+        "primary_dark_300": -251043898,
+        "uikit_btn_compound_color_selector_light": -1726452538,
+        "uikit_settings_item_text_color_dark": -653825412,
+        "uikit_settings_item_text_color_light": -1727043924,
+        "abc_tint_switch_track": -1607567707,
+        "link": -12611880,
+        "link_500": -12745754,
+        "primary_dark_200": -2564386,
+        "white_500": -1
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -250449708,
+        "ic_sidebar_notifications_off_dark_24dp": -217891471,
+        "ic_sidebar_pins_off_dark_24dp": -250449708,
+        "ic_sidebar_pins_on_dark_24dp": -250449708,
+        "ic_thread": -1092605333
+    },
+    "raws": {}
 }
