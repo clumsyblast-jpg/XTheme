@@ -4,6 +4,10 @@
     "version": "1.0.0",
     "author": "YourName"
   },
+  "background": {
+    "url": "https://githubusercontent.com",
+    "overlay_alpha": 150
+  },
   "fonts": {
     "*": "https://github.com/clumsyblast-jpg/XTheme/blob/d4978ecbb9aef9c506c9357d95b9a4cc86031fd2/xfont.ttf"
   }
